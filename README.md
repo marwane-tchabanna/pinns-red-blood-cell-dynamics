@@ -21,7 +21,7 @@ The sign of $A + B$, controlled by $\lambda$, separates the stationary regime fr
 
 **Elastic membrane (Abkarian 2007, Skotheim & Secomb 2007)**: adds membrane shear elasticity through a coupled system for $\theta(t)$ and the membrane phase $\omega(t)$:
 
-$$\dot\theta = A + B\cos(2\theta) - C_c\,\dot\omega, \qquad \dot\omega = \kappa D_v\left[\cos(2\theta) - \frac{f_1}{2f_3}\frac{\Omega}{V}\, Ca\,\sin(2\omega)\right]$$
+$$\dot\theta = A + B\cos(2\theta) - C_c \dot\omega, \qquad \dot\omega = \kappa D_v\left[\cos(2\theta) - \frac{f_1}{2f_3}\frac{\Omega}{V}  Ca \sin(2\omega)\right]$$
 
 where $Ca = G/(\mu_o\kappa)$ is the capillary number. This model captures *swinging*, which pure Keller–Skalak cannot. With $Ca = 0$, it reduces exactly to Keller–Skalak.
 
@@ -29,7 +29,7 @@ where $Ca = G/(\mu_o\kappa)$ is the capillary number. This model captures *swing
 
 A fully connected network $t \mapsto \theta_{pred}(t)$ (3 hidden layers, 32 neurons, tanh activation) is trained with L-BFGS on a composite loss:
 
-$$\mathcal{L} = w_{ic}\,\mathcal{L}_{ic} + w_{data}\,\mathcal{L}_{data} + w_{phys}\,\mathcal{L}_{phys}$$
+$$\mathcal{L} = w_{ic} \mathcal{L}_{ic} + w_{data} \mathcal{L}_{data} + w_{phys} \mathcal{L}_{phys}$$
 
 The physics residual is computed exactly with automatic differentiation. For the **inverse problem**, $\mu_{app}$ becomes a trainable parameter optimized jointly with the network weights. For the elastic model, the reference solution is computed with `scipy.integrate.solve_ivp` (RK45, `rtol=1e-9`).
 
