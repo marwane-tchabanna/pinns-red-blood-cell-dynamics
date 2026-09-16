@@ -1,0 +1,58 @@
+Test1bis_mu1.2_lambda1.0            | err_theta = 4.286e-03 | err_omega = 4.139e-04 | err_nu = 1.218e-03
+Test1bis_mu1.2_lambda1.0            | err_theta = 4.226e-04 | err_omega = 7.941e-04 | err_nu = 7.533e-04
+Test4_EssaiB_mu5to1                 | err_theta = 6.966e-03 | err_omega = 6.468e-04 | err_nu = 3.768e-03 | err_mu_app = 1.999e-03 (appris=1.0020, vrai=1.0000)
+Test4_EssaiA_mu1to5                 | err_theta = 2.949e-02 | err_omega = 7.744e-04 | err_nu = 4.875e-04 | err_mu_app = 1.174e-04 (appris=4.9994, vrai=5.0000)
+Test3_Ca0.02                        | err_theta = 1.199e-03 | err_omega = 8.088e-05 | err_nu = 2.771e-04
+Test3_Ca0.05                        | err_theta = 1.643e-03 | err_omega = 5.463e-04 | err_nu = 4.672e-04
+Test3_Ca0.10                        | err_theta = 2.131e-03 | err_omega = 4.693e-04 | err_nu = 6.172e-04
+Test3_Ca0.20                        | err_theta = 4.517e-03 | err_omega = 2.969e-04 | err_nu = 1.210e-03
+Test3_Ca0.50                        | err_theta = 4.963e-03 | err_omega = 5.619e-04 | err_nu = 1.405e-03
+Test3_Ca1.00                        | err_theta = 9.251e-03 | err_omega = 7.645e-04 | err_nu = 2.423e-03
+Test3_Ca2.00                        | err_theta = 1.646e-02 | err_omega = 8.087e-04 | err_nu = 4.246e-03
+Test3_Ca5.00                        | err_theta = 5.122e-03 | err_omega = 9.119e-04 | err_nu = 2.200e-03
+KSpur_muapp5.0_lambda5.0            | err_theta = 2.164e-04 | err_nu = 4.675e-04
+KSpur_muapp1.2_lambda1.0            | err_theta = 2.995e-04 | err_nu = 6.531e-05
+KSpurInverse_mu5to5                 | err_theta = 7.022e-04 | err_nu = 1.691e-03 | err_mu_app = 1.047e-03 (appris=4.9948, vrai=5.0000)
+KSpurInverse_mu1to1                 | err_theta = 1.212e-03 | err_nu = 7.047e-04 | err_mu_app = 1.541e-03 (appris=1.0015, vrai=1.0000)
+KSpur_muapp5.0_lambda5.0            | err_theta = 2.164e-04 | err_nu = 4.675e-04
+Test4_EssaiB_mu5to1                 | err_theta = 8.896e-03 | err_omega = 3.256e-04 | err_nu = 2.115e-03 | err_mu_app = 6.678e-04 (appris=1.0007, vrai=1.0000)
+Test4_EssaiA_mu1to5                 | err_theta = 5.226e-04 | err_omega = 1.016e-03 | err_nu = 1.518e-03 | err_mu_app = 3.256e-04 (appris=5.0016, vrai=5.0000)
+Test4_EssaiB_mu5to1                 | err_theta = 8.896e-03 | err_omega = 3.256e-04 | err_nu = 2.115e-03 | err_mu_app = 6.678e-04 (appris=1.0007, vrai=1.0000)
+Test4_EssaiA_mu1to5                 | err_theta = 5.226e-04 | err_omega = 1.016e-03 | err_nu = 1.518e-03 | err_mu_app = 3.256e-04 (appris=5.0016, vrai=5.0000)
+Test4_EssaiB_mu5to1                 | err_theta = 8.896e-03 | err_omega = 3.256e-04 | err_nu = 2.115e-03 | err_mu_app = 6.678e-04 (appris=1.0007, vrai=1.0000)
+Test4_EssaiA_mu1to5                 | err_theta = 5.226e-04 | err_omega = 1.016e-03 | err_nu = 1.518e-03 | err_mu_app = 3.256e-04 (appris=5.0016, vrai=5.0000)
+Test1bis_mu1.2_lambda1.0            | err_theta = 4.226e-04 | err_omega = 7.941e-04 | err_nu = 7.533e-04
+Test1bis_mu1.2_lambda1.0            | err_theta = 4.226e-04 | err_omega = 7.941e-04 | err_nu = 7.533e-04
+Test1bis_mu1.2_lambda1.0            | err_theta = 4.286e-03 | err_omega = 4.139e-04 | err_nu = 1.218e-03
+Test3_Ca0.02                        | err_theta = 1.199e-03 | err_omega = 8.088e-05 | err_nu = 2.771e-04
+Test3_Ca0.05                        | err_theta = 1.643e-03 | err_omega = 5.463e-04 | err_nu = 4.672e-04
+Test3_Ca0.00                        | err_theta = 2.168e-03 | err_omega = 3.372e-04 | err_nu = 6.361e-04
+Test3_Ca0.20                        | err_theta = 4.517e-03 | err_omega = 2.969e-04 | err_nu = 1.210e-03
+Test3_Ca0.50                        | err_theta = 4.963e-03 | err_omega = 5.619e-04 | err_nu = 1.405e-03
+Test3_Ca1.00                        | err_theta = 9.251e-03 | err_omega = 7.645e-04 | err_nu = 2.423e-03
+Test3_Ca2.00                        | err_theta = 1.646e-02 | err_omega = 8.087e-04 | err_nu = 4.246e-03
+Test3_Ca5.00                        | err_theta = 5.122e-03 | err_omega = 9.119e-04 | err_nu = 2.200e-03
+Test1bis_mu1.2_lambda1.0            | err_theta = 1.338e-03 | err_omega = 1.025e-04 | err_nu = 3.048e-04
+KSpur_muapp1.2_lambda1.0            | err_theta = 2.995e-04 | err_nu = 6.531e-05
+KSpur_muapp5.0_lambda5.0            | err_theta = 2.164e-04 | err_nu = 4.675e-04
+KSpurInverse_mu5to5                 | err_theta = 7.022e-04 | err_nu = 1.691e-03 | err_mu_app = 1.047e-03 (appris=4.9948, vrai=5.0000)
+KSpurInverse_mu5to5                 | err_theta = 7.022e-04 | err_nu = 1.691e-03 | err_mu_app = 1.047e-03 (appris=4.9948, vrai=5.0000)
+KSpurInverse_mu5to5                 | err_theta = 7.022e-04 | err_nu = 1.691e-03 | err_mu_app = 1.047e-03 (appris=4.9948, vrai=5.0000)
+KSpurInverse_mu1to1                 | err_theta = 1.212e-03 | err_nu = 7.047e-04 | err_mu_app = 1.541e-03 (appris=1.0015, vrai=1.0000)
+KSpurInverse_mu1to1                 | err_theta = 1.212e-03 | err_nu = 7.047e-04 | err_mu_app = 1.541e-03 (appris=1.0015, vrai=1.0000)
+KSpurInverse_mu5to5                 | err_theta = 7.022e-04 | err_nu = 1.691e-03 | err_mu_app = 1.047e-03 (appris=4.9948, vrai=5.0000)
+KSpur_muapp1.2_lambda1.0            | err_theta = 2.995e-04 | err_nu = 6.531e-05
+KSpur_muapp5.0_lambda5.0            | err_theta = 2.164e-04 | err_nu = 4.675e-04
+KSpur_muapp1.2_lambda1.0            | err_theta = 2.995e-04 | err_nu = 6.531e-05
+KSpurInverse_mu1to1                 | err_theta = 1.212e-03 | err_nu = 7.047e-04 | err_mu_app = 1.541e-03 (appris=1.0015, vrai=1.0000)
+KSpurInverse_mu5to5                 | err_theta = 7.022e-04 | err_nu = 1.691e-03 | err_mu_app = 1.047e-03 (appris=4.9948, vrai=5.0000)
+KSpurInverse_mu1to1                 | err_theta = 1.212e-03 | err_nu = 7.047e-04 | err_mu_app = 1.541e-03 (appris=1.0015, vrai=1.0000)
+KSpurInverse_mu5to5                 | err_theta = 7.022e-04 | err_nu = 1.691e-03 | err_mu_app = 1.047e-03 (appris=4.9948, vrai=5.0000)
+Test1bis_mu1.2_lambda1.0            | err_theta = 1.338e-03 | err_omega = 1.025e-04 | err_nu = 3.048e-04
+Test1bis_mu1.2_lambda1.0            | err_theta = 1.338e-03 | err_omega = 1.025e-04 | err_nu = 3.048e-04
+Test1bis_mu1.2_lambda1.0            | err_theta = 4.286e-03 | err_omega = 4.139e-04 | err_nu = 1.218e-03
+Test1bis_mu1.2_lambda1.0            | err_theta = 4.226e-04 | err_omega = 7.941e-04 | err_nu = 7.533e-04
+Test4_EssaiB_mu5to1                 | err_theta = 8.896e-03 | err_omega = 3.256e-04 | err_nu = 2.115e-03 | err_mu_app = 6.678e-04 (appris=1.0007, vrai=1.0000)
+Test4_EssaiB_mu5to1                 | err_theta = 8.896e-03 | err_omega = 3.256e-04 | err_nu = 2.115e-03 | err_mu_app = 6.678e-04 (appris=1.0007, vrai=1.0000)
+Test4_EssaiB_mu5to1                 | err_theta = 8.896e-03 | err_omega = 3.256e-04 | err_nu = 2.115e-03 | err_mu_app = 6.678e-04 (appris=1.0007, vrai=1.0000)
+Test4_EssaiA_mu1to5                 | err_theta = 5.226e-04 | err_omega = 1.016e-03 | err_nu = 1.518e-03 | err_mu_app = 3.256e-04 (appris=5.0016, vrai=5.0000)

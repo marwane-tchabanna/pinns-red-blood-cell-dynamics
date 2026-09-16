@@ -1,0 +1,18 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Poids de modèles et fichiers générés
+*.pth
+*.pt
+plots/
+frame_*.png
+pinn_step_*.png
+
+# Système
+.DS_Store
