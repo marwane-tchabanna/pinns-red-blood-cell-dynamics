@@ -70,7 +70,7 @@ results/metriques_tests.txt            # Error metrics
 ## Usage
 
 ```bash
-git clone https://github.com/danladi-boop/pinns-red-blood-cell-dynamics.git
+git clone https://github.com/marwane-tchabanna/pinns-red-blood-cell-dynamics.git
 cd pinns-red-blood-cell-dynamics
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
